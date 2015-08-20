@@ -64,9 +64,6 @@ DWORD CALLBACK Thread(LPVOID pvoid)
 
 
 
-
-
-
 //在创建的线程中执行的函数
 
 
